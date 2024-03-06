@@ -24,6 +24,7 @@ header{
     border-bottom: 1px solid rgba(0, 0, 0, 0.05);
     transition: 0.5s;
     background: linear-gradient(to right, rgb(68, 162, 255), rgba(94, 255, 125, 0));
+    backdrop-filter: blur(20px);
 }
 img{
     filter: grayscale(100%);
